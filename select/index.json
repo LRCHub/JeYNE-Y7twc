@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サミティファイ",
+  "base_artist": "吉田夜世",
+  "createdAt": "2026-02-16T08:08:49.397175Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サミティファイ",
+      "artist": "吉田夜世",
+      "has_synced": false,
+      "path": "select/pl_01_サミティファイ_吉田夜世.txt"
+    }
+  ]
+}
